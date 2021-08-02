@@ -1,3 +1,3 @@
 # SCAS
 
-The objective is to detetct and track Vehicle
+The objective is to detect and track objects 
